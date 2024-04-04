@@ -8,19 +8,19 @@ Welcome to the Article Writing Task, a crucial part of the Data Analyst Internsh
 **Objective:** To write an informative and insightful article related to Data Analytics trends, techniques, or case studies.
 
 ### Guidelines:
-**• Article Length:** Each article should be between minimum 500 words.
-**• Originality:** All articles must be original and well-researched. Article content should be
+* **Article Length:** Each article should be between minimum 500 words.
+* **Originality:** All articles must be original and well-researched. Article content should be
 Plagiarism Free and should not be AI Generated.
-**• Topic Selection:** You have the creative freedom to choose any data analysis or SQL or
+* **Topic Selection:** You have the creative freedom to choose any data analysis or SQL or
 Power BI related topic that interests you. You can refer to the list of reference topics
 below, or you're welcome to propose your own topic.
-**• Research:** Conduct thorough research to ensure that your articles are well-informed and
+* **Research:** Conduct thorough research to ensure that your articles are well-informed and
 up-to date. Cite credible sources when necessary.
-**• Quality:** Maintain high-quality writing standards with proper grammar, spelling, and
+* **Quality:** Maintain high-quality writing standards with proper grammar, spelling, and
 structure. Your articles should be clear, concise, and engaging.
-**• Visualization:** Include relevant data visualizations, charts, or graphs to illustrate your
+* **Visualization:** Include relevant data visualizations, charts, or graphs to illustrate your
 points effectively. Ensure that you have the necessary rights to use any visuals.
-**• Engagement:** Craft articles that engage our readers and offer value. Use real-world
+* **Engagement:** Craft articles that engage our readers and offer value. Use real-world
 examples, case studies, or practical insights where applicable.
 
 ### Below is the list of suggested topics for reference. You are not bound to select one of these
