@@ -51,3 +51,6 @@ Throughout the internship, I undertook three major tasks:
 * Gain practical experience in Data Analytics tasks.
 * Develop skills in SQL, data analysis, and data visualization.
 * Receive feedback and guidance from industry experts.
+
+### Below is the internship certificate which I have obtained after sucessfull completion of the internship :
+![Sohan Gurav_Certificate](https://github.com/sohang05/Data-Analyst-Internship/assets/73344291/9025f6ee-9fed-4d23-90b8-0298ad7d8192)
