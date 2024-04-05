@@ -14,16 +14,22 @@ crops such as rice, wheat, sorghum, millets, pulses, oilseeds, sugarcane, and mo
 ### Project Objectives:
 **1. Data Exploration:**
 - Explore the dataset to understand the distribution of agricultural variables across districts and years.
+  
 **2. Crop-specific Analysis:**
 - Analyze the trends in the cultivation of major crops, including rice, wheat, and pulses, focusing on changes in area, production, and yield.
+  
 **3. Regional Disparities:**
 - Identify disparities and variations in agricultural practices and outcomes across different districts and states.
+  
 **4. Seasonal Patterns:**
 - Explore seasonal patterns in crop cultivation, considering kharif and rabi seasons.
+  
 **5. Impact of External Factors:**
 - Investigate the impact of external factors like weather conditions on crop performance.
+  
 **6. Fruits and Vegetables Analysis:**
 - Analyze the cultivation trends of fruits, vegetables, and their overall contribution to agricultural practices.
+  
 **7. Sustainable Farming Insights:**
 - Derive insights that can contribute to promoting sustainable farming practices and optimizing resource allocation.
 
