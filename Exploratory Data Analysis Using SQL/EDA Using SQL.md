@@ -21,6 +21,19 @@ INN00008|	2	|0	|1 |	3	| Meal Plan 1	|Room_Type 4 |	83	|2018-12-26	|Online	|105.6
 INN00009|	3	|0	|0 |  4	| Meal Plan 1	|Room_Type 1 |	121	|2018-06-07	|Offline|	96.9	| Not_Canceled  |
 INN00010|	2	|0	|0 |	5	| Meal Plan 1	|Room_Type 4 |	44	|2018-10-18	|Online	|133.44	| Not_Canceled  |
 
+
+arrival_date|	market_segment_type	|avg_price_per_room	|booking_status|
+------------|-----------------------|-------------------|-------------|
+2017-02-10	|Offline	|65	|Not_Canceled|
+2018-06-11	|Online	|106.68|	Not_Canceled|
+2018-02-28	|Online	|60	|Canceled|
+2018-05-20	|Online	|100|	Canceled|
+2018-11-04	|Online	|94.5|	Canceled|
+2018-09-13	|Online	|115|	Canceled|
+2017-10-15	|Online	|107.55|	Not_Canceled|
+2018-12-26	|Online	|105.61	|Not_Canceled|
+2018-06-07	|Offline |	96.9|	Not_Canceled|
+2018-10-18	|Online	|133.44	|Not_Canceled|
 ### 1.Finding the total no. of reservations 
 ```SQL
 Select count(Booking_Id) As Total_Reservations
