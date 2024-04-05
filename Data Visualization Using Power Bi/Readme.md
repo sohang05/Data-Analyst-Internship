@@ -39,4 +39,9 @@ crops such as rice, wheat, sorghum, millets, pulses, oilseeds, sugarcane, and mo
 * Reports on regional disparities, seasonal patterns, and the impact of external factors.
 * Recommendations for policymakers and stakeholders in the agriculture sector.
 
+### Below is a preview of the Dashboard:
+![Indian Crop Analysis-images-1](https://github.com/sohang05/Data-Analyst-Internship/assets/73344291/d3d0f185-3e03-4587-8ad9-c701037a4759)
+![Indian Crop Analysis-images-2](https://github.com/sohang05/Data-Analyst-Internship/assets/73344291/fbc086b2-eb8d-4089-82db-dba287af7c28)
+
+#### To view the entire report, you can download the Power Bi report.
 
