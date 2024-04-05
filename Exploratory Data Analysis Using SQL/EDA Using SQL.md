@@ -8,7 +8,7 @@ USE HotelReservation;
 ```SQL
 Select * from Hotel;
 ```
-** RESULTS:**
+**RESULTS:**
 Booking_ID|	no_of_adults|	no_of_children|	no_of_weekend_nights|no_of_week_nights|	type_of_meal_plan	|room_type_reserved |lead_time |  
 ----------|-------------|---------------|---------------------|-----------------|-------------------|-----------------|---------    
 INN00001| 2 |0	|1 |	2 |	Meal Plan 1	|Room_Type 1 |	224	|2017-02-10 |Offline|65	    |Not_Canceled   |
