@@ -12,8 +12,7 @@ the steps I have used to modify the data
 Create Database Indian_Agriculture;
 Use Indian_Agriculture;
 ```
-### The Select Query is used to view or retrieve the specified data from a table. The * symbol simply means "ALL", i.e I have used * to 
-### retrieve all data from the table.
+### The Select Query is used to view or retrieve the specified data from a table. The * symbol simply means "ALL", i.e I have used * to retrieve all data from the table.
 ```SQL
 Select * from crop_analysis;
 ```
@@ -114,7 +113,7 @@ VALUES('Rice', 'Cereals'),
 SELECT * FROM Category;
 ```
 
-### Creating individual coulumns based on Area, Production & Yield
+### Creating individual columns based on Area, Production & Yield
 
 ### BASED ON AREA
 ```SQL
