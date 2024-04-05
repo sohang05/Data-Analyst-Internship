@@ -8,6 +8,19 @@ USE HotelReservation;
 ```SQL
 Select * from Hotel;
 ```
+Booking_ID|	no_of_adults|	no_of_children|	no_of_weekend_nights|no_of_week_nights|	type_of_meal_plan	|room_type_reserved |lead_time |  
+----------|-------------|---------------|---------------------|-----------------|-------------------|-----------------|---------    
+INN00001| 2 |0	|1 |	2 |	Meal Plan 1	|Room_Type 1 |	224	|2017-02-10 |Offline|65	    |Not_Canceled   |
+INN00002|	2	|0	|2 |	3	| Not Selected|Room_Type 1 |	5	  |2018-06-11	|Online	|106.68	| Not_Canceled  |
+INN00003|	1	|0	|2 |	1	| Meal Plan 1	|Room_Type 1 |  1	  |2018-02-28	|Online	|60     | Canceled      |
+INN00004|	2	|0	|0 |	2 |	Meal Plan 1	|Room_Type 1 |	211	|2018-05-20	|Online	|100	  | Canceled      |
+INN00005|	2	|0	|1 |	1	| Not Selected|Room_Type 1 |	48	|2018-11-04	|Online	|94.5	  | Canceled      |
+INN00006|	2	|0	|0 |	2	| Meal Plan 2	|Room_Type 1 |	346	|2018-09-13	|Online	|115	  | Canceled      |
+INN00007|	2	|0	|1 |	3	| Meal Plan 1	|Room_Type 1 |  34	|2017-10-15	|Online	|107.55	| Not_Canceled  |
+INN00008|	2	|0	|1 |	3	| Meal Plan 1	|Room_Type 4 |	83	|2018-12-26	|Online	|105.61	| Not_Canceled  |
+INN00009|	3	|0	|0 |  4	| Meal Plan 1	|Room_Type 1 |	121	|2018-06-07	|Offline|	96.9	| Not_Canceled  |
+INN00010|	2	|0	|0 |	5	| Meal Plan 1	|Room_Type 4 |	44	|2018-10-18	|Online	|133.44	| Not_Canceled  |
+
 ### 1.Finding the total no. of reservations 
 ```SQL
 Select count(Booking_Id) As Total_Reservations
