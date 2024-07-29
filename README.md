@@ -35,7 +35,7 @@ Throughout the internship, I undertook three major tasks:
 ## Program Details
 * Duration: 1 month
 * Internship Provider: Mentorness
-* Tasks Covered:
+* Tasks Covered
   
 ## Getting Started
 ### Prerequisites:
